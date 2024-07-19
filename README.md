@@ -1,22 +1,20 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=oleksandr-pidhorodetskyi.oleksandr-pidhorodetskyi" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Oleksandr+Pidhorodetskyi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=F78756FF&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Oleksandr+Pidhorodetskyi!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Ukraine 🇨🇦</h3>
+<h3 align="center">A passionate software developer from Ukraine and now I'm in Poland🇺🇦🇵🇱</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **a Team Lead role**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **AWS**
 
 💬 Ask me about **React, Next.js, React native CLI/EXPO... or anything [here](https://github.com/oleksandr-pidhorodetskyi/oleksandr-pidhorodetskyi/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
@@ -37,10 +35,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,javascript,typescript,bootstrap,mui,tailwind,nodejs,express,firebase,mongodb" />
-    <img src="https://skillicons.dev/icons?i=vscode,idea,webstorm,postman,figma" /><br>
-    <img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket" /><br>
     <img src="https://skillicons.dev/icons?i=yarn,npm,pnpm" /><br>
+    <img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket,vscode,idea,webstorm,postman,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,javascript,typescript,bootstrap,mui,tailwind,nodejs,express,firebase,mongodb" />
 </div>
 
 <br/>
