@@ -63,6 +63,3 @@
 </div>
 
 <br/><br/>
-
-
-https://github-readme-stats.vercel.app/api?username=anuraghazra
