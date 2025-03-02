@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a Team Lead role**
  
- 🌱 I’m currently learning **AWS**
+ 🌱 I’m currently learning **Nest**
 
 💬 Ask me about **React, Next.js, React native CLI/EXPO... or anything [here](https://github.com/oleksandr-pidhorodetskyi/oleksandr-pidhorodetskyi/issues)**
 
